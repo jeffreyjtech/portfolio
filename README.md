@@ -38,6 +38,6 @@ This is my Portfolio site, where I showcase some biographical information, my sk
     - Actual time needed to complete: 46 minutes
 5. **Feature #5: Personalize**
     - Estimate of time needed to complete: 45 minutes
-    - Start time: -
+    - Start time: 8:25 PM
     - Finish time: -
     - Actual time needed to complete: -
