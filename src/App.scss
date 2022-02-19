@@ -31,11 +31,8 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
+	height: 422px;
 	width: 100%;
-	background-size: cover;
-	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
 	background-color: #e9d5a1;
@@ -43,14 +40,29 @@ header {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 30px;
 	padding-bottom: 0;
+	background-image: url('../public/images/hiking-banner-cropped.jpg');
 }
 
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	background-color: #ebdedeef;
+	padding-top: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	border: #313131 thick solid;
+}
+
+.title-block {
+	background-color: #ebdedeef;
+	width: fit-content;
+	margin: auto;
+	padding: 0px 10px;
+	border-radius: 5px;
+	border: #313131 thick solid;
 }
 
 .github-corner:hover .octo-arm {
@@ -77,7 +89,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#B2BEBF, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -95,18 +107,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #3B3936;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #7F8D94;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #7F8D94;
 	height: 25px;
 }
 
@@ -139,7 +151,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #d2e0bb;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -188,7 +200,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #d2e0bb;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -218,7 +230,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #d2e0bb;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +243,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #DBE0E4;
 }
 
 .experience-icon {
@@ -354,7 +366,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #DBE0E4;
 	padding-bottom: 5%;
 }
 
