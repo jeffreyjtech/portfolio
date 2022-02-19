@@ -19,8 +19,8 @@ This is my Portfolio site, where I showcase some biographical information, my sk
 1. **Feature #1: Clone Template and Deploy**
     - Estimate of time needed to complete: 15 minutes
     - Start time: 4:30 PM
-    - Finish time: 
-    - Actual time needed to complete: -
+    - Finish time: 4:41 PM
+    - Actual time needed to complete: 11 minutes
 2. **Feature #2: About Me Page**
     - Estimate of time needed to complete: 30 minutes
     - Start time: -
