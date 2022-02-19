@@ -45,21 +45,21 @@ body[data-theme="dark"] {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #384346;
       }
       .card {
-         background: #6d6d6d;
+         background: #384346;
          color: white;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #364223;
       .section-title {
          color: white !important;
       }
       .foto div {
-         background: #6d6d6d;
+         background: #384346;
       }
       .project-title-settings {
          color: white;
@@ -68,18 +68,18 @@ body[data-theme="dark"] {
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #364223;
       .section-title {
          color: white !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #384346 !important;
          color: white;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #384346 !important;
       }
 
       .vertical-timeline-element-date {
@@ -87,7 +87,7 @@ body[data-theme="dark"] {
       }
 
       .vertical-timeline-element-icon {
-         background: #919191 !important;
+         background: #384346 !important;
       }
       @media only screen and (max-width: 1169px) { 
          .vertical-timeline-element-date {
@@ -97,7 +97,7 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
+      background: #364223;
       color: white;
    }
 
