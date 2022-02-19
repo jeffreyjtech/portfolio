@@ -24,8 +24,8 @@ This is my Portfolio site, where I showcase some biographical information, my sk
 2. **Feature #2: About Me Page**
     - Estimate of time needed to complete: 30 minutes
     - Start time: 4:42 PM
-    - Finish time: 
-    - Actual time needed to complete: -
+    - Finish time: 5:07 PM
+    - Actual time needed to complete: 25 minutes
 3. **Feature #3: Projects Section**
     - Estimate of time needed to complete: 30 minutes
     - Start time: -
