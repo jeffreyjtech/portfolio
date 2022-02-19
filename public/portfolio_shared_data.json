@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Jeffrey Jenkins",
+      "titles": [ "Software developer with a passion for creating innovative, highly effective solutions." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jeffreyjtech/",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jeffreyjtech/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
