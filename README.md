@@ -13,8 +13,8 @@ This is my Portfolio site, where I showcase some biographical information, my sk
 ### Lab 05 reflection
 
 - Oh boy, was this a lab. The template codebase is very disorganized, and also had to be repurposed in fiddly ways, against the original intent of some features, to fulfill the lab requirements.
-- Just to use the CSS as an example, there some elements receiving styling from 3 or 4 sources It wasn't until the last 15 minutes that I remembered the glory of "Find/Replace in Files".
-- I went at it basically alone, and I think that was very much to my detriment since there's just so much going on in this application.
+  - Just to use the CSS as an example, there are some elements receiving styling from 3 or 4 sources. It wasn't until the last 15 minutes that I remembered the glory of "Find/Replace in Files".
+- I went at this basically alone, and I think it was very much to my detriment since there's just so much going on in this application.
 
 ## Time Estimates
 
