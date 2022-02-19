@@ -31,11 +31,8 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
+	height: 422px;
 	width: 100%;
-	background-size: cover;
-	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
 	background-color: #e9d5a1;
@@ -43,14 +40,29 @@ header {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 30px;
 	padding-bottom: 0;
+	background-image: url('../public/images/hiking-banner-cropped.jpg');
 }
 
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	background-color: #ebdedeef;
+	padding-top: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	border: #313131 thick solid;
+}
+
+.title-block {
+	background-color: #ebdedeef;
+	width: fit-content;
+	margin: auto;
+	padding: 0px 10px;
+	border-radius: 5px;
+	border: #313131 thick solid;
 }
 
 .github-corner:hover .octo-arm {
