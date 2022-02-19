@@ -82,37 +82,28 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Stryker",
+        "title": "Ops Test Engineering Technician",
+        "years": "10.2020 - 11.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          null
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+        "achievements": [
+          "Achieved >98% machine uptime on 2 multi-million-dollar LIFEPAK production lines.",
+          "Increased group operating efficiency by leading 3 strategic Kaizen projects.",
+          "Performed root cause analysis on equipment failures by designing test experiments based on technical documentation and failure history. "
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Stryker",
+        "title": "Troubleshooting Technician",
+        "years": "03.2018 - 10.2020",
         "mainTech": [
-          "Angular 7/8"
+          null
         ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+        "achievements": [
+          "Performed troubleshooting and repair on non-conforming units belonging to 3 LIFEPAK product lines, recovering the value on 100 or more devices each month.",
+          "Advised manufacturing engineering and production management on defect-per-unit trends and suggested process improvements."
         ]
       }
     ]

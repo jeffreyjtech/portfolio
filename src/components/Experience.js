@@ -11,21 +11,21 @@ class Experience extends Component {
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
       var work = this.props.resumeExperience.map(function (work, i) {
-        const technologies = work.technologies;
+        const achievements = work.achievements;
         const mainTechnologies = work.mainTech;
 
-        var mainTech = mainTechnologies.map((technology, i) => {
+        var mainTech = mainTechnologies.map((achievements, i) => {
           return (
             <Badge pill className="main-badge mr-2 mb-2" key={i}>
-              {technology}
+              {achievements}
             </Badge>
           );
         });
-        var tech = technologies.map((technology, i) => {
+        var tech = achievements.map((achievements, i) => {
           return (
-            <Badge pill className="experience-badge mr-2 mb-2" key={i}>
-              {technology}
-            </Badge>
+            <div className="border rounded-pill mr-2 mb-2 p-3 w-100 bg-light" key={i}>
+              {achievements}
+            </div>
           );
         });
         return (
@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={<i className="fab experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
