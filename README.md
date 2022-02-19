@@ -6,11 +6,15 @@ This is my Portfolio site, where I showcase some biographical information, my sk
 
 ## Links and Resources
 
-- None to add
+- Used [Designspiration](https://www.designspiration.com/) to help with the color scheme.
 
 ## Reflections
 
 ### Lab 05 reflection
+
+- Oh boy, was this a lab. The template codebase is very disorganized, and also had to be repurposed in fiddly ways, against the original intent of some features, to fulfill the lab requirements.
+- Just to use the CSS as an example, there some elements receiving styling from 3 or 4 sources It wasn't until the last 15 minutes that I remembered the glory of "Find/Replace in Files".
+- I went at it basically alone, and I think that was very much to my detriment since there's just so much going on in this application.
 
 ## Time Estimates
 
@@ -39,5 +43,5 @@ This is my Portfolio site, where I showcase some biographical information, my sk
 5. **Feature #5: Personalize**
     - Estimate of time needed to complete: 45 minutes
     - Start time: 8:25 PM
-    - Finish time: -
-    - Actual time needed to complete: -
+    - Finish time: 9:47 PM
+    - Actual time needed to complete: 82 minutes
