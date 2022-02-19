@@ -2,7 +2,7 @@
     "basic_info": {
       "description_header": "Howdy 🤠",
       "description": "👋 Hi, I’m Jeffrey Jenkins. I am a software developer with previous experience in medical device manufacturing and electrical engineering. Previously I maintained the testing equipment at a defibrillator manufacturer. That equipment verified the quality of our life-saving products before being delivered to customers. I’m a capable problem-solver and passionate about challenging myself to learn new skills. This passion drove me to change careers into the fast-paced industry of software development. My previous work gave me invaluable skills for this field. I learned how to put quality and the customer’s needs first, strive for excellence in my work, and form relationships with my colleagues so that we can align with our organization’s mission. I know I can make a positive impact in whatever team and whatever work I engage with.😎",
-      "section_name": {
+      "section_name": { 
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
@@ -11,70 +11,71 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Dirt.Farm",
+        "startDate": "2022",
+        "description": "The most advanced application I have made so far. Myself and 3 classmates built a relaxing web-based farming game in 4 days. I was responsible for a great deal of the game logic, which was programmed in JavaScript. My favorite features to implement were the click detection event handler and the plant growth timing event. The former worked by decoding attributes encoded into the HTML elements to respond appropriately to the user, and the latter manipulated living plant objects to change their appearance and maturity over time.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/dirt-farm-screenshot.PNG"
         ],
-        "url": "",
+        "url": "https://github.com/jeffreyjtech/farming-game",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Bus Mall",
+        "startDate": "2022",
+        "description": "This is a customer interest survey app for Bus Mall, the most prestigious fictional product catalogue, found in public transportation near you. Using Chart.js and the technologies below, I built an app which tracks the selections a user makes in a set number of voting rounds. A nifty Chart.js bar chart displays your lifetime voting behavior, which persists between browser sessions",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/bus-mall-screenshot.PNG"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "My second project made at Code Fellows. This website advertised a fictional cookie store, selling delicious and fishy Salmon Cookies in 5 global locations. My favorite part of this project is the dynamic data table found on the Sales page. Every value is dynamic, and it was the barely the second time I had ever made code-generated HTML.",
+        "images": [
+          "images/portfolio/salmon-cookies-screenshot.PNG"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       }
