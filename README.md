@@ -33,9 +33,9 @@ This is my Portfolio site, where I showcase some biographical information, my sk
     - Actual time needed to complete: 53 minutes
 4. **Feature #4: Skills and Experience Sections**
     - Estimate of time needed to complete: 30 minutes
-    - Start time: -
-    - Finish time: -
-    - Actual time needed to complete: -
+    - Start time: 7:16 PM
+    - Finish time: 8:02 PM
+    - Actual time needed to complete: 46 minutes
 5. **Feature #1: Personalize**
     - Estimate of time needed to complete: 45 minutes
     - Start time: -
